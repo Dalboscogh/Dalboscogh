@@ -2,7 +2,7 @@
 
 
 <div>
-  <a href="https://github.com/Dalboscogh">
+  <p>Meu nome é Gustavo Henrique Dalbosco, sou ex-aluno do ITA, entusiasta de programação, meio artista e diversas outras coisas.</p>
 </div>  
  
  ## 
