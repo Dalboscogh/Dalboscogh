@@ -16,7 +16,7 @@
     </div>
 </div>
 
-#
+# Links
  
 <div > 
   <a href="https://www.linkedin.com/in/dalboscogh" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -24,7 +24,7 @@
 
 #
 
-#Outras habilidades e interesses:
+# Outras habilidades e interesses:
 
 <div style="display: inline_block"><br>
         <img align="center" alt="Dalbs-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
