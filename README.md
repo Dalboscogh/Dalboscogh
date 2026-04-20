@@ -1,7 +1,7 @@
 <h1 align="center">Oioi, eu sou o Dalbs 👋</h1>
 
 <p align="center">
-  <em>Software engineer · ex-ITA · construindo agentes autônomos na Brendi</em>
+  <em>Product Engineer · ex-ITA · orquestrando agentes autônomos na Brendi</em>
 </p>
 
 <p align="center">
@@ -15,10 +15,10 @@
 
 ```ts
 const dalbs = {
-  role: "Software Engineer @ Brendi",
-  background: "Engenharia @ ITA",
+  role: "Product Engineer @ Brendi",
+  background: "Engenharia @ ITA · cursando Eng. de Software (Unicesumar)",
   focus: ["AI agents", "backend", "DX", "security"],
-  currently: "delegando trabalho pra agentes autônomos enquanto tomo café",
+  currently: "revisor full-time — os agentes escrevem, eu reviso",
   sideQuests: ["design", "ilustração", "matemática aplicada"],
 };
 ```
@@ -47,7 +47,7 @@ const dalbs = {
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dalboscogh&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dalboscogh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalboscogh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 </p>
 
