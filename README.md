@@ -17,7 +17,7 @@
 const dalbs = {
   role: "Product Engineer @ Brendi",
   background: "Engenharia @ ITA · cursando Eng. de Software (Unicesumar)",
-  focus: ["AI agents", "backend", "DX", "security"],
+  focus: ["AI agents", "full-stack", "DX", "security", "software architecture"],
   currently: "revisor full-time — os agentes escrevem, eu reviso",
   sideQuests: ["design", "ilustração", "matemática aplicada"],
 };
